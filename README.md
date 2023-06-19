@@ -13,7 +13,7 @@ A Node.js web application built with Express.js and MongoDB, designed to handle 
 
 Installation
 
-Clone the repository: git clone https://github.com/your-username/your-repository.git
+Clone the repository: git clone https://github.com/Opiziepazzle/Authentication-Nodejs.git
 Change to the project directory: cd your-repository
 Install dependencies: npm install
 
